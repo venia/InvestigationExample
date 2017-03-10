@@ -1,4 +1,4 @@
-package com.aquilla.jpa.entity;
+package com.aquilla.jpa.service;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
